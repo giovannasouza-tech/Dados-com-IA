@@ -1,0 +1,186 @@
+{
+ "pagina": 2,
+ "total_de_paginas": 2,
+ "registros": [
+  {
+   "codigo_cliente": 1051,
+   "nome": "Empório Fictício 051",
+   "cidade": "Jundiaí",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1052,
+   "nome": "Empório Fictício 052",
+   "cidade": "Ribeirão Preto",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1053,
+   "nome": "Mercado Fictício 053",
+   "cidade": "Ribeirão Preto",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1054,
+   "nome": "Bar Fictício 054",
+   "cidade": "Guarulhos",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1055,
+   "nome": "Hotel Fictício 055",
+   "cidade": "Osasco",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1056,
+   "nome": "Mercado Fictício 056",
+   "cidade": "Guarulhos",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1057,
+   "nome": "Hotel Fictício 057",
+   "cidade": "Jundiaí",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1058,
+   "nome": "Hotel Fictício 058",
+   "cidade": "Jundiaí",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1059,
+   "nome": "Mercado Fictício 059",
+   "cidade": "Ribeirão Preto",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1060,
+   "nome": "Bar Fictício 060",
+   "cidade": "Osasco",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1061,
+   "nome": "Empório Fictício 061",
+   "cidade": "Campinas",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1062,
+   "nome": "Restaurante Fictício 062",
+   "cidade": "Campinas",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1063,
+   "nome": "Bar Fictício 063",
+   "cidade": "Guarulhos",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1064,
+   "nome": "Bar Fictício 064",
+   "cidade": "Guarulhos",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1065,
+   "nome": "Empório Fictício 065",
+   "cidade": "Osasco",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1066,
+   "nome": "Restaurante Fictício 066",
+   "cidade": "Jundiaí",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1067,
+   "nome": "Empório Fictício 067",
+   "cidade": "Osasco",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1068,
+   "nome": "Empório Fictício 068",
+   "cidade": "Osasco",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1069,
+   "nome": "Mercado Fictício 069",
+   "cidade": "Osasco",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1070,
+   "nome": "Restaurante Fictício 070",
+   "cidade": "Guarulhos",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1071,
+   "nome": "Restaurante Fictício 071",
+   "cidade": "Guarulhos",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1072,
+   "nome": "Hotel Fictício 072",
+   "cidade": "Santos",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1073,
+   "nome": "Mercado Fictício 073",
+   "cidade": "Campinas",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1074,
+   "nome": "Mercado Fictício 074",
+   "cidade": "Jundiaí",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1075,
+   "nome": "Bar Fictício 075",
+   "cidade": "Jundiaí",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1076,
+   "nome": "Restaurante Fictício 076",
+   "cidade": "Guarulhos",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1077,
+   "nome": "Mercado Fictício 077",
+   "cidade": "Osasco",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1078,
+   "nome": "Bar Fictício 078",
+   "cidade": "Osasco",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1079,
+   "nome": "Restaurante Fictício 079",
+   "cidade": "Guarulhos",
+   "uf": "SP"
+  },
+  {
+   "codigo_cliente": 1080,
+   "nome": "Mercado Fictício 080",
+   "cidade": "Guarulhos",
+   "uf": "SP"
+  }
+ ]
+}

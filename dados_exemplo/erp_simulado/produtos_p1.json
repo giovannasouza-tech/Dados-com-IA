@@ -1,0 +1,246 @@
+{
+ "pagina": 1,
+ "total_de_paginas": 1,
+ "registros": [
+  {
+   "codigo_produto": 5001,
+   "descricao": "Cerveja especial Exemplo 01",
+   "linha": "Cerveja especial",
+   "preco_tabela": 26.01
+  },
+  {
+   "codigo_produto": 5002,
+   "descricao": "Vinho branco Exemplo 02",
+   "linha": "Vinho branco",
+   "preco_tabela": 81.13
+  },
+  {
+   "codigo_produto": 5003,
+   "descricao": "Vinho branco Exemplo 03",
+   "linha": "Vinho branco",
+   "preco_tabela": 99.33
+  },
+  {
+   "codigo_produto": 5004,
+   "descricao": "Cerveja especial Exemplo 04",
+   "linha": "Cerveja especial",
+   "preco_tabela": 33.13
+  },
+  {
+   "codigo_produto": 5005,
+   "descricao": "Cerveja especial Exemplo 05",
+   "linha": "Cerveja especial",
+   "preco_tabela": 19.46
+  },
+  {
+   "codigo_produto": 5006,
+   "descricao": "Vinho tinto Exemplo 06",
+   "linha": "Vinho tinto",
+   "preco_tabela": 60.1
+  },
+  {
+   "codigo_produto": 5007,
+   "descricao": "Espumante Exemplo 07",
+   "linha": "Espumante",
+   "preco_tabela": 199.99
+  },
+  {
+   "codigo_produto": 5008,
+   "descricao": "Espumante Exemplo 08",
+   "linha": "Espumante",
+   "preco_tabela": 94.51
+  },
+  {
+   "codigo_produto": 5009,
+   "descricao": "Vinho branco Exemplo 09",
+   "linha": "Vinho branco",
+   "preco_tabela": 136.58
+  },
+  {
+   "codigo_produto": 5010,
+   "descricao": "Vinho tinto Exemplo 10",
+   "linha": "Vinho tinto",
+   "preco_tabela": 56.56
+  },
+  {
+   "codigo_produto": 5011,
+   "descricao": "Destilado Exemplo 11",
+   "linha": "Destilado",
+   "preco_tabela": 274.01
+  },
+  {
+   "codigo_produto": 5012,
+   "descricao": "Cerveja especial Exemplo 12",
+   "linha": "Cerveja especial",
+   "preco_tabela": 29.61
+  },
+  {
+   "codigo_produto": 5013,
+   "descricao": "Vinho branco Exemplo 13",
+   "linha": "Vinho branco",
+   "preco_tabela": 112.57
+  },
+  {
+   "codigo_produto": 5014,
+   "descricao": "Cerveja especial Exemplo 14",
+   "linha": "Cerveja especial",
+   "preco_tabela": 15.8
+  },
+  {
+   "codigo_produto": 5015,
+   "descricao": "Cerveja especial Exemplo 15",
+   "linha": "Cerveja especial",
+   "preco_tabela": 32.07
+  },
+  {
+   "codigo_produto": 5016,
+   "descricao": "Destilado Exemplo 16",
+   "linha": "Destilado",
+   "preco_tabela": 311.09
+  },
+  {
+   "codigo_produto": 5017,
+   "descricao": "Cerveja especial Exemplo 17",
+   "linha": "Cerveja especial",
+   "preco_tabela": 29.37
+  },
+  {
+   "codigo_produto": 5018,
+   "descricao": "Vinho branco Exemplo 18",
+   "linha": "Vinho branco",
+   "preco_tabela": 118.42
+  },
+  {
+   "codigo_produto": 5019,
+   "descricao": "Destilado Exemplo 19",
+   "linha": "Destilado",
+   "preco_tabela": 318.79
+  },
+  {
+   "codigo_produto": 5020,
+   "descricao": "Espumante Exemplo 20",
+   "linha": "Espumante",
+   "preco_tabela": 127.29
+  },
+  {
+   "codigo_produto": 5021,
+   "descricao": "Cerveja especial Exemplo 21",
+   "linha": "Cerveja especial",
+   "preco_tabela": 22.38
+  },
+  {
+   "codigo_produto": 5022,
+   "descricao": "Vinho branco Exemplo 22",
+   "linha": "Vinho branco",
+   "preco_tabela": 64.72
+  },
+  {
+   "codigo_produto": 5023,
+   "descricao": "Espumante Exemplo 23",
+   "linha": "Espumante",
+   "preco_tabela": 58.47
+  },
+  {
+   "codigo_produto": 5024,
+   "descricao": "Cerveja especial Exemplo 24",
+   "linha": "Cerveja especial",
+   "preco_tabela": 17.29
+  },
+  {
+   "codigo_produto": 5025,
+   "descricao": "Vinho branco Exemplo 25",
+   "linha": "Vinho branco",
+   "preco_tabela": 40.79
+  },
+  {
+   "codigo_produto": 5026,
+   "descricao": "Vinho tinto Exemplo 26",
+   "linha": "Vinho tinto",
+   "preco_tabela": 75.91
+  },
+  {
+   "codigo_produto": 5027,
+   "descricao": "Vinho tinto Exemplo 27",
+   "linha": "Vinho tinto",
+   "preco_tabela": 161.05
+  },
+  {
+   "codigo_produto": 5028,
+   "descricao": "Vinho tinto Exemplo 28",
+   "linha": "Vinho tinto",
+   "preco_tabela": 114.41
+  },
+  {
+   "codigo_produto": 5029,
+   "descricao": "Espumante Exemplo 29",
+   "linha": "Espumante",
+   "preco_tabela": 165.38
+  },
+  {
+   "codigo_produto": 5030,
+   "descricao": "Vinho branco Exemplo 30",
+   "linha": "Vinho branco",
+   "preco_tabela": 99.32
+  },
+  {
+   "codigo_produto": 5031,
+   "descricao": "Cerveja especial Exemplo 31",
+   "linha": "Cerveja especial",
+   "preco_tabela": 25.25
+  },
+  {
+   "codigo_produto": 5032,
+   "descricao": "Vinho branco Exemplo 32",
+   "linha": "Vinho branco",
+   "preco_tabela": 126.31
+  },
+  {
+   "codigo_produto": 5033,
+   "descricao": "Destilado Exemplo 33",
+   "linha": "Destilado",
+   "preco_tabela": 117.6
+  },
+  {
+   "codigo_produto": 5034,
+   "descricao": "Vinho tinto Exemplo 34",
+   "linha": "Vinho tinto",
+   "preco_tabela": 133.96
+  },
+  {
+   "codigo_produto": 5035,
+   "descricao": "Espumante Exemplo 35",
+   "linha": "Espumante",
+   "preco_tabela": 124.89
+  },
+  {
+   "codigo_produto": 5036,
+   "descricao": "Destilado Exemplo 36",
+   "linha": "Destilado",
+   "preco_tabela": 285.96
+  },
+  {
+   "codigo_produto": 5037,
+   "descricao": "Vinho tinto Exemplo 37",
+   "linha": "Vinho tinto",
+   "preco_tabela": 135.9
+  },
+  {
+   "codigo_produto": 5038,
+   "descricao": "Vinho tinto Exemplo 38",
+   "linha": "Vinho tinto",
+   "preco_tabela": 53.18
+  },
+  {
+   "codigo_produto": 5039,
+   "descricao": "Espumante Exemplo 39",
+   "linha": "Espumante",
+   "preco_tabela": 187.1
+  },
+  {
+   "codigo_produto": 5040,
+   "descricao": "Vinho tinto Exemplo 40",
+   "linha": "Vinho tinto",
+   "preco_tabela": 78.57
+  }
+ ]
+}

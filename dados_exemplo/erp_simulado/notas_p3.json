@@ -1,0 +1,1011 @@
+{
+ "pagina": 3,
+ "total_de_paginas": 19,
+ "registros": [
+  {
+   "numero_nf": 20101,
+   "data_emissao": "2026-01-29",
+   "codigo_cliente": 1067,
+   "itens": [
+    {
+     "codigo_produto": 5028,
+     "quantidade": 20,
+     "valor_unitario": 113.5
+    },
+    {
+     "codigo_produto": 5036,
+     "quantidade": 21,
+     "valor_unitario": 281.24
+    }
+   ]
+  },
+  {
+   "numero_nf": 20102,
+   "data_emissao": "2026-01-29",
+   "codigo_cliente": 1046,
+   "itens": [
+    {
+     "codigo_produto": 5002,
+     "quantidade": 23,
+     "valor_unitario": 82.3
+    },
+    {
+     "codigo_produto": 5012,
+     "quantidade": 11,
+     "valor_unitario": 28.21
+    },
+    {
+     "codigo_produto": 5018,
+     "quantidade": 6,
+     "valor_unitario": 122.03
+    }
+   ]
+  },
+  {
+   "numero_nf": 20103,
+   "data_emissao": "2026-01-29",
+   "codigo_cliente": 1033,
+   "itens": [
+    {
+     "codigo_produto": 5005,
+     "quantidade": 24,
+     "valor_unitario": 19.06
+    },
+    {
+     "codigo_produto": 5010,
+     "quantidade": 13,
+     "valor_unitario": 54.47
+    },
+    {
+     "codigo_produto": 5002,
+     "quantidade": 11,
+     "valor_unitario": 74.93
+    },
+    {
+     "codigo_produto": 5006,
+     "quantidade": 10,
+     "valor_unitario": 60.6
+    }
+   ]
+  },
+  {
+   "numero_nf": 20104,
+   "data_emissao": "2026-01-30",
+   "codigo_cliente": 1042,
+   "itens": [
+    {
+     "codigo_produto": 5010,
+     "quantidade": 6,
+     "valor_unitario": 57.3
+    }
+   ]
+  },
+  {
+   "numero_nf": 20105,
+   "data_emissao": "2026-01-30",
+   "codigo_cliente": 1011,
+   "itens": [
+    {
+     "codigo_produto": 5018,
+     "quantidade": 15,
+     "valor_unitario": 118.34
+    }
+   ]
+  },
+  {
+   "numero_nf": 20106,
+   "data_emissao": "2026-01-30",
+   "codigo_cliente": 1028,
+   "itens": [
+    {
+     "codigo_produto": 5027,
+     "quantidade": 4,
+     "valor_unitario": 153.28
+    },
+    {
+     "codigo_produto": 5018,
+     "quantidade": 4,
+     "valor_unitario": 111.61
+    },
+    {
+     "codigo_produto": 5014,
+     "quantidade": 22,
+     "valor_unitario": 15.63
+    },
+    {
+     "codigo_produto": 5033,
+     "quantidade": 17,
+     "valor_unitario": 117.61
+    }
+   ]
+  },
+  {
+   "numero_nf": 20107,
+   "data_emissao": "2026-01-30",
+   "codigo_cliente": 1011,
+   "itens": [
+    {
+     "codigo_produto": 5039,
+     "quantidade": 10,
+     "valor_unitario": 194.92
+    },
+    {
+     "codigo_produto": 5004,
+     "quantidade": 5,
+     "valor_unitario": 33.61
+    },
+    {
+     "codigo_produto": 5001,
+     "quantidade": 10,
+     "valor_unitario": 24.69
+    },
+    {
+     "codigo_produto": 5014,
+     "quantidade": 1,
+     "valor_unitario": 15.4
+    }
+   ]
+  },
+  {
+   "numero_nf": 20108,
+   "data_emissao": "2026-01-30",
+   "codigo_cliente": 1022,
+   "itens": [
+    {
+     "codigo_produto": 5025,
+     "quantidade": 23,
+     "valor_unitario": 38.12
+    },
+    {
+     "codigo_produto": 5035,
+     "quantidade": 18,
+     "valor_unitario": 128.01
+    }
+   ]
+  },
+  {
+   "numero_nf": 20109,
+   "data_emissao": "2026-01-30",
+   "codigo_cliente": 1067,
+   "itens": [
+    {
+     "codigo_produto": 5026,
+     "quantidade": 24,
+     "valor_unitario": 68.8
+    }
+   ]
+  },
+  {
+   "numero_nf": 20110,
+   "data_emissao": "2026-02-02",
+   "codigo_cliente": 1024,
+   "itens": [
+    {
+     "codigo_produto": 5021,
+     "quantidade": 19,
+     "valor_unitario": 21.58
+    }
+   ]
+  },
+  {
+   "numero_nf": 20111,
+   "data_emissao": "2026-02-02",
+   "codigo_cliente": 1013,
+   "itens": [
+    {
+     "codigo_produto": 5019,
+     "quantidade": 11,
+     "valor_unitario": 295.13
+    },
+    {
+     "codigo_produto": 5008,
+     "quantidade": 20,
+     "valor_unitario": 91.58
+    },
+    {
+     "codigo_produto": 5026,
+     "quantidade": 23,
+     "valor_unitario": 78.79
+    },
+    {
+     "codigo_produto": 5002,
+     "quantidade": 3,
+     "valor_unitario": 78.33
+    }
+   ]
+  },
+  {
+   "numero_nf": 20112,
+   "data_emissao": "2026-02-03",
+   "codigo_cliente": 1011,
+   "itens": [
+    {
+     "codigo_produto": 5034,
+     "quantidade": 24,
+     "valor_unitario": 127.39
+    },
+    {
+     "codigo_produto": 5006,
+     "quantidade": 11,
+     "valor_unitario": 61.11
+    },
+    {
+     "codigo_produto": 5026,
+     "quantidade": 3,
+     "valor_unitario": 74.13
+    },
+    {
+     "codigo_produto": 5020,
+     "quantidade": 4,
+     "valor_unitario": 124.69
+    }
+   ]
+  },
+  {
+   "numero_nf": 20113,
+   "data_emissao": "2026-02-03",
+   "codigo_cliente": 1011,
+   "itens": [
+    {
+     "codigo_produto": 5023,
+     "quantidade": 4,
+     "valor_unitario": 53.91
+    },
+    {
+     "codigo_produto": 5010,
+     "quantidade": 7,
+     "valor_unitario": 52.38
+    },
+    {
+     "codigo_produto": 5016,
+     "quantidade": 5,
+     "valor_unitario": 315.46
+    }
+   ]
+  },
+  {
+   "numero_nf": 20114,
+   "data_emissao": "2026-02-04",
+   "codigo_cliente": 1011,
+   "itens": [
+    {
+     "codigo_produto": 5030,
+     "quantidade": 22,
+     "valor_unitario": 103.16
+    },
+    {
+     "codigo_produto": 5037,
+     "quantidade": 19,
+     "valor_unitario": 135.42
+    },
+    {
+     "codigo_produto": 5038,
+     "quantidade": 20,
+     "valor_unitario": 50.44
+    },
+    {
+     "codigo_produto": 5029,
+     "quantidade": 21,
+     "valor_unitario": 156.68
+    }
+   ]
+  },
+  {
+   "numero_nf": 20115,
+   "data_emissao": "2026-02-04",
+   "codigo_cliente": 1022,
+   "itens": [
+    {
+     "codigo_produto": 5029,
+     "quantidade": 2,
+     "valor_unitario": 157.57
+    },
+    {
+     "codigo_produto": 5020,
+     "quantidade": 3,
+     "valor_unitario": 120.49
+    },
+    {
+     "codigo_produto": 5018,
+     "quantidade": 15,
+     "valor_unitario": 107.25
+    },
+    {
+     "codigo_produto": 5038,
+     "quantidade": 12,
+     "valor_unitario": 54.5
+    }
+   ]
+  },
+  {
+   "numero_nf": 20116,
+   "data_emissao": "2026-02-04",
+   "codigo_cliente": 1011,
+   "itens": [
+    {
+     "codigo_produto": 5040,
+     "quantidade": 20,
+     "valor_unitario": 76.69
+    }
+   ]
+  },
+  {
+   "numero_nf": 20117,
+   "data_emissao": "2026-02-04",
+   "codigo_cliente": 1026,
+   "itens": [
+    {
+     "codigo_produto": 5029,
+     "quantidade": 19,
+     "valor_unitario": 165.01
+    }
+   ]
+  },
+  {
+   "numero_nf": 20118,
+   "data_emissao": "2026-02-04",
+   "codigo_cliente": 1011,
+   "itens": [
+    {
+     "codigo_produto": 5033,
+     "quantidade": 4,
+     "valor_unitario": 120.15
+    },
+    {
+     "codigo_produto": 5010,
+     "quantidade": 11,
+     "valor_unitario": 59.24
+    },
+    {
+     "codigo_produto": 5004,
+     "quantidade": 3,
+     "valor_unitario": 32.32
+    },
+    {
+     "codigo_produto": 5029,
+     "quantidade": 6,
+     "valor_unitario": 149.81
+    }
+   ]
+  },
+  {
+   "numero_nf": 20119,
+   "data_emissao": "2026-02-04",
+   "codigo_cliente": 1067,
+   "itens": [
+    {
+     "codigo_produto": 5034,
+     "quantidade": 12,
+     "valor_unitario": 139.01
+    },
+    {
+     "codigo_produto": 5040,
+     "quantidade": 13,
+     "valor_unitario": 75.53
+    },
+    {
+     "codigo_produto": 5011,
+     "quantidade": 11,
+     "valor_unitario": 274.51
+    },
+    {
+     "codigo_produto": 5024,
+     "quantidade": 2,
+     "valor_unitario": 17.61
+    }
+   ]
+  },
+  {
+   "numero_nf": 20120,
+   "data_emissao": "2026-02-04",
+   "codigo_cliente": 1064,
+   "itens": [
+    {
+     "codigo_produto": 5022,
+     "quantidade": 4,
+     "valor_unitario": 63.66
+    }
+   ]
+  },
+  {
+   "numero_nf": 20121,
+   "data_emissao": "2026-02-05",
+   "codigo_cliente": 1011,
+   "itens": [
+    {
+     "codigo_produto": 5022,
+     "quantidade": 19,
+     "valor_unitario": 64.69
+    },
+    {
+     "codigo_produto": 5006,
+     "quantidade": 12,
+     "valor_unitario": 56.89
+    }
+   ]
+  },
+  {
+   "numero_nf": 20122,
+   "data_emissao": "2026-02-05",
+   "codigo_cliente": 1067,
+   "itens": [
+    {
+     "codigo_produto": 5009,
+     "quantidade": 18,
+     "valor_unitario": 130.64
+    },
+    {
+     "codigo_produto": 5039,
+     "quantidade": 11,
+     "valor_unitario": 191.21
+    },
+    {
+     "codigo_produto": 5006,
+     "quantidade": 22,
+     "valor_unitario": 60.43
+    },
+    {
+     "codigo_produto": 5020,
+     "quantidade": 24,
+     "valor_unitario": 133.6
+    }
+   ]
+  },
+  {
+   "numero_nf": 20123,
+   "data_emissao": "2026-02-05",
+   "codigo_cliente": 1068,
+   "itens": [
+    {
+     "codigo_produto": 5028,
+     "quantidade": 17,
+     "valor_unitario": 109.18
+    }
+   ]
+  },
+  {
+   "numero_nf": 20124,
+   "data_emissao": "2026-02-05",
+   "codigo_cliente": 1011,
+   "itens": [
+    {
+     "codigo_produto": 5014,
+     "quantidade": 16,
+     "valor_unitario": 14.68
+    },
+    {
+     "codigo_produto": 5022,
+     "quantidade": 5,
+     "valor_unitario": 59.75
+    }
+   ]
+  },
+  {
+   "numero_nf": 20125,
+   "data_emissao": "2026-02-05",
+   "codigo_cliente": 1011,
+   "itens": [
+    {
+     "codigo_produto": 5033,
+     "quantidade": 18,
+     "valor_unitario": 120.57
+    }
+   ]
+  },
+  {
+   "numero_nf": 20126,
+   "data_emissao": "2026-02-06",
+   "codigo_cliente": 1011,
+   "itens": [
+    {
+     "codigo_produto": 5040,
+     "quantidade": 13,
+     "valor_unitario": 72.53
+    },
+    {
+     "codigo_produto": 5009,
+     "quantidade": 6,
+     "valor_unitario": 139.95
+    },
+    {
+     "codigo_produto": 5039,
+     "quantidade": 20,
+     "valor_unitario": 191.1
+    }
+   ]
+  },
+  {
+   "numero_nf": 20127,
+   "data_emissao": "2026-02-06",
+   "codigo_cliente": 1011,
+   "itens": [
+    {
+     "codigo_produto": 5003,
+     "quantidade": 15,
+     "valor_unitario": 98.49
+    },
+    {
+     "codigo_produto": 5027,
+     "quantidade": 24,
+     "valor_unitario": 163.88
+    },
+    {
+     "codigo_produto": 5024,
+     "quantidade": 8,
+     "valor_unitario": 16.95
+    },
+    {
+     "codigo_produto": 5016,
+     "quantidade": 10,
+     "valor_unitario": 325.04
+    }
+   ]
+  },
+  {
+   "numero_nf": 20128,
+   "data_emissao": "2026-02-06",
+   "codigo_cliente": 1067,
+   "itens": [
+    {
+     "codigo_produto": 5024,
+     "quantidade": 15,
+     "valor_unitario": 16.76
+    },
+    {
+     "codigo_produto": 5037,
+     "quantidade": 10,
+     "valor_unitario": 138.17
+    }
+   ]
+  },
+  {
+   "numero_nf": 20129,
+   "data_emissao": "2026-02-06",
+   "codigo_cliente": 1028,
+   "itens": [
+    {
+     "codigo_produto": 5011,
+     "quantidade": 9,
+     "valor_unitario": 248.75
+    },
+    {
+     "codigo_produto": 5013,
+     "quantidade": 16,
+     "valor_unitario": 116.07
+    },
+    {
+     "codigo_produto": 5039,
+     "quantidade": 18,
+     "valor_unitario": 194.61
+    },
+    {
+     "codigo_produto": 5009,
+     "quantidade": 23,
+     "valor_unitario": 140.25
+    }
+   ]
+  },
+  {
+   "numero_nf": 20130,
+   "data_emissao": "2026-02-06",
+   "codigo_cliente": 1068,
+   "itens": [
+    {
+     "codigo_produto": 5006,
+     "quantidade": 15,
+     "valor_unitario": 62.25
+    },
+    {
+     "codigo_produto": 5011,
+     "quantidade": 5,
+     "valor_unitario": 280.77
+    },
+    {
+     "codigo_produto": 5018,
+     "quantidade": 3,
+     "valor_unitario": 123.39
+    }
+   ]
+  },
+  {
+   "numero_nf": 20131,
+   "data_emissao": "2026-02-06",
+   "codigo_cliente": 1011,
+   "itens": [
+    {
+     "codigo_produto": 5023,
+     "quantidade": 13,
+     "valor_unitario": 57.03
+    },
+    {
+     "codigo_produto": 5002,
+     "quantidade": 8,
+     "valor_unitario": 77.72
+    },
+    {
+     "codigo_produto": 5027,
+     "quantidade": 3,
+     "valor_unitario": 154.0
+    },
+    {
+     "codigo_produto": 5004,
+     "quantidade": 1,
+     "valor_unitario": 31.4
+    }
+   ]
+  },
+  {
+   "numero_nf": 20132,
+   "data_emissao": "2026-02-09",
+   "codigo_cliente": 1067,
+   "itens": [
+    {
+     "codigo_produto": 5010,
+     "quantidade": 10,
+     "valor_unitario": 58.69
+    },
+    {
+     "codigo_produto": 5009,
+     "quantidade": 16,
+     "valor_unitario": 137.18
+    },
+    {
+     "codigo_produto": 5003,
+     "quantidade": 5,
+     "valor_unitario": 100.7
+    }
+   ]
+  },
+  {
+   "numero_nf": 20133,
+   "data_emissao": "2026-02-09",
+   "codigo_cliente": 1027,
+   "itens": [
+    {
+     "codigo_produto": 5006,
+     "quantidade": 1,
+     "valor_unitario": 56.4
+    }
+   ]
+  },
+  {
+   "numero_nf": 20134,
+   "data_emissao": "2026-02-10",
+   "codigo_cliente": 1028,
+   "itens": [
+    {
+     "codigo_produto": 5008,
+     "quantidade": 4,
+     "valor_unitario": 85.74
+    },
+    {
+     "codigo_produto": 5019,
+     "quantidade": 14,
+     "valor_unitario": 317.46
+    },
+    {
+     "codigo_produto": 5016,
+     "quantidade": 20,
+     "valor_unitario": 301.31
+    },
+    {
+     "codigo_produto": 5020,
+     "quantidade": 4,
+     "valor_unitario": 130.54
+    }
+   ]
+  },
+  {
+   "numero_nf": 20135,
+   "data_emissao": "2026-02-10",
+   "codigo_cliente": 1028,
+   "itens": [
+    {
+     "codigo_produto": 5033,
+     "quantidade": 19,
+     "valor_unitario": 110.11
+    }
+   ]
+  },
+  {
+   "numero_nf": 20136,
+   "data_emissao": "2026-02-10",
+   "codigo_cliente": 1011,
+   "itens": [
+    {
+     "codigo_produto": 5001,
+     "quantidade": 19,
+     "valor_unitario": 25.03
+    },
+    {
+     "codigo_produto": 5040,
+     "quantidade": 22,
+     "valor_unitario": 78.59
+    },
+    {
+     "codigo_produto": 5023,
+     "quantidade": 17,
+     "valor_unitario": 61.17
+    },
+    {
+     "codigo_produto": 5016,
+     "quantidade": 3,
+     "valor_unitario": 324.47
+    }
+   ]
+  },
+  {
+   "numero_nf": 20137,
+   "data_emissao": "2026-02-11",
+   "codigo_cliente": 1028,
+   "itens": [
+    {
+     "codigo_produto": 5025,
+     "quantidade": 16,
+     "valor_unitario": 36.98
+    }
+   ]
+  },
+  {
+   "numero_nf": 20138,
+   "data_emissao": "2026-02-11",
+   "codigo_cliente": 1011,
+   "itens": [
+    {
+     "codigo_produto": 5017,
+     "quantidade": 3,
+     "valor_unitario": 27.95
+    },
+    {
+     "codigo_produto": 5002,
+     "quantidade": 24,
+     "valor_unitario": 81.01
+    },
+    {
+     "codigo_produto": 5023,
+     "quantidade": 4,
+     "valor_unitario": 59.39
+    }
+   ]
+  },
+  {
+   "numero_nf": 20139,
+   "data_emissao": "2026-02-11",
+   "codigo_cliente": 1067,
+   "itens": [
+    {
+     "codigo_produto": 5009,
+     "quantidade": 18,
+     "valor_unitario": 129.86
+    },
+    {
+     "codigo_produto": 5003,
+     "quantidade": 21,
+     "valor_unitario": 92.01
+    },
+    {
+     "codigo_produto": 5023,
+     "quantidade": 22,
+     "valor_unitario": 56.7
+    }
+   ]
+  },
+  {
+   "numero_nf": 20140,
+   "data_emissao": "2026-02-11",
+   "codigo_cliente": 1067,
+   "itens": [
+    {
+     "codigo_produto": 5009,
+     "quantidade": 23,
+     "valor_unitario": 138.82
+    },
+    {
+     "codigo_produto": 5005,
+     "quantidade": 15,
+     "valor_unitario": 17.62
+    }
+   ]
+  },
+  {
+   "numero_nf": 20141,
+   "data_emissao": "2026-02-11",
+   "codigo_cliente": 1011,
+   "itens": [
+    {
+     "codigo_produto": 5003,
+     "quantidade": 10,
+     "valor_unitario": 97.08
+    },
+    {
+     "codigo_produto": 5021,
+     "quantidade": 18,
+     "valor_unitario": 21.73
+    }
+   ]
+  },
+  {
+   "numero_nf": 20142,
+   "data_emissao": "2026-02-11",
+   "codigo_cliente": 1011,
+   "itens": [
+    {
+     "codigo_produto": 5019,
+     "quantidade": 2,
+     "valor_unitario": 328.31
+    },
+    {
+     "codigo_produto": 5023,
+     "quantidade": 11,
+     "valor_unitario": 55.02
+    }
+   ]
+  },
+  {
+   "numero_nf": 20143,
+   "data_emissao": "2026-02-12",
+   "codigo_cliente": 1022,
+   "itens": [
+    {
+     "codigo_produto": 5029,
+     "quantidade": 16,
+     "valor_unitario": 166.01
+    },
+    {
+     "codigo_produto": 5025,
+     "quantidade": 12,
+     "valor_unitario": 42.37
+    },
+    {
+     "codigo_produto": 5022,
+     "quantidade": 17,
+     "valor_unitario": 60.84
+    },
+    {
+     "codigo_produto": 5012,
+     "quantidade": 3,
+     "valor_unitario": 29.88
+    }
+   ]
+  },
+  {
+   "numero_nf": 20144,
+   "data_emissao": "2026-02-12",
+   "codigo_cliente": 1011,
+   "itens": [
+    {
+     "codigo_produto": 5035,
+     "quantidade": 11,
+     "valor_unitario": 114.32
+    },
+    {
+     "codigo_produto": 5019,
+     "quantidade": 11,
+     "valor_unitario": 318.52
+    }
+   ]
+  },
+  {
+   "numero_nf": 20145,
+   "data_emissao": "2026-02-12",
+   "codigo_cliente": 1011,
+   "itens": [
+    {
+     "codigo_produto": 5011,
+     "quantidade": 24,
+     "valor_unitario": 282.37
+    },
+    {
+     "codigo_produto": 5029,
+     "quantidade": 12,
+     "valor_unitario": 164.09
+    },
+    {
+     "codigo_produto": 5023,
+     "quantidade": 14,
+     "valor_unitario": 55.03
+    },
+    {
+     "codigo_produto": 5003,
+     "quantidade": 2,
+     "valor_unitario": 90.52
+    }
+   ]
+  },
+  {
+   "numero_nf": 20146,
+   "data_emissao": "2026-02-12",
+   "codigo_cliente": 1057,
+   "itens": [
+    {
+     "codigo_produto": 5033,
+     "quantidade": 5,
+     "valor_unitario": 120.81
+    },
+    {
+     "codigo_produto": 5011,
+     "quantidade": 22,
+     "valor_unitario": 278.72
+    },
+    {
+     "codigo_produto": 5002,
+     "quantidade": 2,
+     "valor_unitario": 74.55
+    }
+   ]
+  },
+  {
+   "numero_nf": 20147,
+   "data_emissao": "2026-02-13",
+   "codigo_cliente": 1067,
+   "itens": [
+    {
+     "codigo_produto": 5024,
+     "quantidade": 2,
+     "valor_unitario": 17.13
+    },
+    {
+     "codigo_produto": 5025,
+     "quantidade": 22,
+     "valor_unitario": 39.46
+    },
+    {
+     "codigo_produto": 5037,
+     "quantidade": 12,
+     "valor_unitario": 129.89
+    }
+   ]
+  },
+  {
+   "numero_nf": 20148,
+   "data_emissao": "2026-02-13",
+   "codigo_cliente": 1067,
+   "itens": [
+    {
+     "codigo_produto": 5034,
+     "quantidade": 13,
+     "valor_unitario": 126.88
+    },
+    {
+     "codigo_produto": 5024,
+     "quantidade": 9,
+     "valor_unitario": 16.21
+    }
+   ]
+  },
+  {
+   "numero_nf": 20149,
+   "data_emissao": "2026-02-13",
+   "codigo_cliente": 1011,
+   "itens": [
+    {
+     "codigo_produto": 5032,
+     "quantidade": 13,
+     "valor_unitario": 130.99
+    },
+    {
+     "codigo_produto": 5034,
+     "quantidade": 4,
+     "valor_unitario": 125.82
+    }
+   ]
+  },
+  {
+   "numero_nf": 20150,
+   "data_emissao": "2026-02-16",
+   "codigo_cliente": 1067,
+   "itens": [
+    {
+     "codigo_produto": 5040,
+     "quantidade": 23,
+     "valor_unitario": 81.51
+    },
+    {
+     "codigo_produto": 5019,
+     "quantidade": 16,
+     "valor_unitario": 296.48
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="960" height="640" rx="12" fill="#fcfcfb"/>
+<text x="32" y="44" font-size="20" fill="#0b0b0b" font-weight="600" text-anchor="start">Painel comercial · dados fictícios</text>
+<text x="32" y="66" font-size="12" fill="#52514e" font-weight="400" text-anchor="start">jan–out/2026 · gerado por relatorio/dashboard.py a partir das views relatorio_*</text>
+<rect x="32" y="88" width="212" height="76" rx="8" fill="#ffffff" stroke="#e4e3df"/>
+<text x="48" y="114" font-size="12" fill="#52514e" font-weight="400" text-anchor="start">Vendas</text>
+<text x="48" y="146" font-size="24" fill="#0b0b0b" font-weight="600" text-anchor="start">R$ 3.194.207</text>
+<rect x="260" y="88" width="212" height="76" rx="8" fill="#ffffff" stroke="#e4e3df"/>
+<text x="276" y="114" font-size="12" fill="#52514e" font-weight="400" text-anchor="start">Notas de venda</text>
+<text x="276" y="146" font-size="24" fill="#0b0b0b" font-weight="600" text-anchor="start">935</text>
+<rect x="488" y="88" width="212" height="76" rx="8" fill="#ffffff" stroke="#e4e3df"/>
+<text x="504" y="114" font-size="12" fill="#52514e" font-weight="400" text-anchor="start">Ticket médio</text>
+<text x="504" y="146" font-size="24" fill="#0b0b0b" font-weight="600" text-anchor="start">R$ 3.416</text>
+<rect x="716" y="88" width="212" height="76" rx="8" fill="#ffffff" stroke="#e4e3df"/>
+<text x="732" y="114" font-size="12" fill="#52514e" font-weight="400" text-anchor="start">Clientes que compraram</text>
+<text x="732" y="146" font-size="24" fill="#0b0b0b" font-weight="600" text-anchor="start">63</text>
+<text x="32" y="206" font-size="14" fill="#0b0b0b" font-weight="600" text-anchor="start">Vendas por mês</text>
+<line x1="84" x2="574" y1="560.0" y2="560.0" stroke="#e4e3df"/>
+<text x="78" y="564.0" font-size="10" fill="#52514e" font-weight="400" text-anchor="end">0</text>
+<line x1="84" x2="574" y1="410.0" y2="410.0" stroke="#e4e3df"/>
+<text x="78" y="414.0" font-size="10" fill="#52514e" font-weight="400" text-anchor="end">R$ 196 mil</text>
+<line x1="84" x2="574" y1="260.0" y2="260.0" stroke="#e4e3df"/>
+<text x="78" y="264.0" font-size="10" fill="#52514e" font-weight="400" text-anchor="end">R$ 391 mil</text>
+<path d="M90.0,560 V264.0 Q90.0,260.0 94.0,260.0 H123.0 Q127.0,260.0 127.0,264.0 V560 Z" fill="#2a78d6"><title>jan/2026: R$ 391.392</title></path>
+<text x="108.5" y="576" font-size="11" fill="#52514e" font-weight="400" text-anchor="middle">jan</text>
+<text x="108.5" y="254.0" font-size="10" fill="#0b0b0b" font-weight="400" text-anchor="middle">R$ 391 mil</text>
+<path d="M139.0,560 V284.1 Q139.0,280.1 143.0,280.1 H172.0 Q176.0,280.1 176.0,284.1 V560 Z" fill="#2a78d6"><title>fev/2026: R$ 365.198</title></path>
+<text x="157.5" y="576" font-size="11" fill="#52514e" font-weight="400" text-anchor="middle">fev</text>
+<path d="M188.0,560 V288.5 Q188.0,284.5 192.0,284.5 H221.0 Q225.0,284.5 225.0,288.5 V560 Z" fill="#2a78d6"><title>mar/2026: R$ 359.393</title></path>
+<text x="206.5" y="576" font-size="11" fill="#52514e" font-weight="400" text-anchor="middle">mar</text>
+<path d="M237.0,560 V287.1 Q237.0,283.1 241.0,283.1 H270.0 Q274.0,283.1 274.0,287.1 V560 Z" fill="#2a78d6"><title>abr/2026: R$ 361.273</title></path>
+<text x="255.5" y="576" font-size="11" fill="#52514e" font-weight="400" text-anchor="middle">abr</text>
+<path d="M286.0,560 V335.6 Q286.0,331.6 290.0,331.6 H319.0 Q323.0,331.6 323.0,335.6 V560 Z" fill="#2a78d6"><title>mai/2026: R$ 297.966</title></path>
+<text x="304.5" y="576" font-size="11" fill="#52514e" font-weight="400" text-anchor="middle">mai</text>
+<path d="M335.0,560 V266.0 Q335.0,262.0 339.0,262.0 H368.0 Q372.0,262.0 372.0,266.0 V560 Z" fill="#2a78d6"><title>jun/2026: R$ 388.772</title></path>
+<text x="353.5" y="576" font-size="11" fill="#52514e" font-weight="400" text-anchor="middle">jun</text>
+<path d="M384.0,560 V338.2 Q384.0,334.2 388.0,334.2 H417.0 Q421.0,334.2 421.0,338.2 V560 Z" fill="#2a78d6"><title>jul/2026: R$ 294.545</title></path>
+<text x="402.5" y="576" font-size="11" fill="#52514e" font-weight="400" text-anchor="middle">jul</text>
+<path d="M433.0,560 V333.5 Q433.0,329.5 437.0,329.5 H466.0 Q470.0,329.5 470.0,333.5 V560 Z" fill="#2a78d6"><title>ago/2026: R$ 300.704</title></path>
+<text x="451.5" y="576" font-size="11" fill="#52514e" font-weight="400" text-anchor="middle">ago</text>
+<path d="M482.0,560 V397.2 Q482.0,393.2 486.0,393.2 H515.0 Q519.0,393.2 519.0,397.2 V560 Z" fill="#2a78d6"><title>set/2026: R$ 217.562</title></path>
+<text x="500.5" y="576" font-size="11" fill="#52514e" font-weight="400" text-anchor="middle">set</text>
+<path d="M531.0,560 V397.4 Q531.0,393.4 535.0,393.4 H564.0 Q568.0,393.4 568.0,397.4 V560 Z" fill="#2a78d6"><title>out/2026: R$ 217.403</title></path>
+<text x="549.5" y="576" font-size="11" fill="#52514e" font-weight="400" text-anchor="middle">out</text>
+<text x="549.5" y="387.36176862906404" font-size="10" fill="#0b0b0b" font-weight="400" text-anchor="middle">R$ 217 mil</text>
+<text x="612" y="206" font-size="14" fill="#0b0b0b" font-weight="600" text-anchor="start">Clientes que mais compraram</text>
+<text x="612" y="239" font-size="11" fill="#52514e" font-weight="400" text-anchor="start">Hotel 011</text>
+<rect x="612" y="244" width="200.0" height="8" rx="4" fill="#2a78d6"><title>Hotel Fictício 011: R$ 1.118.310</title></rect>
+<text x="820.0" y="252" font-size="10" fill="#0b0b0b" font-weight="400" text-anchor="start">R$ 1.118 mil</text>
+<text x="612" y="269" font-size="11" fill="#52514e" font-weight="400" text-anchor="start">Empório 067</text>
+<rect x="612" y="274" width="138.8" height="8" rx="4" fill="#2a78d6"><title>Empório Fictício 067: R$ 776.099</title></rect>
+<text x="758.798611214628" y="282" font-size="10" fill="#0b0b0b" font-weight="400" text-anchor="start">R$ 776 mil</text>
+<text x="612" y="299" font-size="11" fill="#52514e" font-weight="400" text-anchor="start">Hotel 028</text>
+<rect x="612" y="304" width="50.8" height="8" rx="4" fill="#2a78d6"><title>Hotel Fictício 028: R$ 284.323</title></rect>
+<text x="670.8487475279542" y="312" font-size="10" fill="#0b0b0b" font-weight="400" text-anchor="start">R$ 284 mil</text>
+<text x="612" y="329" font-size="11" fill="#52514e" font-weight="400" text-anchor="start">Empório 068</text>
+<rect x="612" y="334" width="26.6" height="8" rx="4" fill="#2a78d6"><title>Empório Fictício 068: R$ 148.987</title></rect>
+<text x="646.6449722567434" y="342" font-size="10" fill="#0b0b0b" font-weight="400" text-anchor="start">R$ 149 mil</text>
+<text x="612" y="359" font-size="11" fill="#52514e" font-weight="400" text-anchor="start">Mercado 080</text>
+<rect x="612" y="364" width="16.4" height="8" rx="4" fill="#2a78d6"><title>Mercado Fictício 080: R$ 91.709</title></rect>
+<text x="636.4013401691386" y="372" font-size="10" fill="#0b0b0b" font-weight="400" text-anchor="start">R$ 92 mil</text>
+<text x="612" y="410" font-size="14" fill="#0b0b0b" font-weight="600" text-anchor="start">Vendas por linha de produto</text>
+<text x="612" y="443" font-size="11" fill="#52514e" font-weight="400" text-anchor="start">Destilado</text>
+<rect x="612" y="448" width="200.0" height="8" rx="4" fill="#2a78d6"><title>Destilado: R$ 975.837</title></rect>
+<text x="820.0" y="456" font-size="10" fill="#0b0b0b" font-weight="400" text-anchor="start">R$ 976 mil</text>
+<text x="612" y="473" font-size="11" fill="#52514e" font-weight="400" text-anchor="start">Espumante</text>
+<rect x="612" y="478" width="149.4" height="8" rx="4" fill="#2a78d6"><title>Espumante: R$ 729.006</title></rect>
+<text x="769.4113952735506" y="486" font-size="10" fill="#0b0b0b" font-weight="400" text-anchor="start">R$ 729 mil</text>
+<text x="612" y="503" font-size="11" fill="#52514e" font-weight="400" text-anchor="start">Vinho branco</text>
+<rect x="612" y="508" width="137.4" height="8" rx="4" fill="#2a78d6"><title>Vinho branco: R$ 670.329</title></rect>
+<text x="757.3854367273219" y="516" font-size="10" fill="#0b0b0b" font-weight="400" text-anchor="start">R$ 670 mil</text>
+<text x="612" y="533" font-size="11" fill="#52514e" font-weight="400" text-anchor="start">Vinho tinto</text>
+<rect x="612" y="538" width="131.7" height="8" rx="4" fill="#2a78d6"><title>Vinho tinto: R$ 642.793</title></rect>
+<text x="751.7418427674718" y="546" font-size="10" fill="#0b0b0b" font-weight="400" text-anchor="start">R$ 643 mil</text>
+<text x="612" y="563" font-size="11" fill="#52514e" font-weight="400" text-anchor="start">Cerveja especial</text>
+<rect x="612" y="568" width="36.1" height="8" rx="4" fill="#2a78d6"><title>Cerveja especial: R$ 176.241</title></rect>
+<text x="656.1209606858782" y="576" font-size="10" fill="#0b0b0b" font-weight="400" text-anchor="start">R$ 176 mil</text>
+</svg>
