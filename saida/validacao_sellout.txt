@@ -1,0 +1,15 @@
+Planilha revisada: 150 linhas
+
+⛔ Erros que impedem o envio (5):
+   - NF 20878 aparece para 2 clientes (1011, 9999)
+   - NF 20876 aparece para 2 clientes (1011, 1012)
+   - linha 5: cliente 9999 sem cadastro no ERP
+   - linha 7: campo obrigatório em branco (codigo_produto)
+   - linha 9: data inválida (2026-02-30)
+
+⚠️ Pontos para conferir (3):
+   - linha 11: preço R$ 235.71 contra R$ 78.57 de tabela
+   - linha 13: quantidade 900 fora do comum
+   - linha 15: venda num domingo (2026-10-25)
+
+Arquivo NÃO gerado. Corrija os erros ou rode com --liberar.
